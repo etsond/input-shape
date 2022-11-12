@@ -1,4 +1,3 @@
-//Noah Greene
 //Etson Dorival
 
 public class Rectangle extends Shape{
