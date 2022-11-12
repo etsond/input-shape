@@ -1,4 +1,4 @@
-//Noah Greene
+
 //Etson Dorival
 
 public class Triangle extends Shape{
